@@ -1,0 +1,86 @@
+[01-Apr-2015 11:02:05 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:02:11 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:02:24 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:02:25 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:02:25 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:03:25 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:03:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'ben_prac1'@'localhost' to database 'ben_prac12' in /home/ben/public_html/uh/cis2336/mysql/db/connect.php on line 3
+[01-Apr-2015 11:03:34 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:04:58 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:05:15 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:05:15 America/Chicago] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'ben_prac1'@'localhost' to database 'ben_prac12' in /home/ben/public_html/uh/cis2336/mysql/db/connect.php on line 3
+[01-Apr-2015 11:07:11 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:07:17 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:07:31 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:30 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:40 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:42 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:43 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:43 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:08:43 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:10:14 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:10:51 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:13:17 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:35:56 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:36:04 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2015 11:36:04 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/ben/public_html/uh/cis2336/mysql/index.php on line 12
+[01-Apr-2015 11:36:40 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:11:04 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:13:27 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:15:10 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:25:15 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:37:06 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:37:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/ben/public_html/uh/cis2336/mysql/index2.php on line 7
+[15-Apr-2015 02:37:27 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 02:40:38 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:33:02 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:33:18 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:37:20 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:40:09 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:43:24 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:47:45 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:49:00 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:50:18 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:50:35 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:50:41 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:51:02 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:51:05 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:51:20 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 11:51:41 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 12:46:26 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 12:52:36 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 13:09:15 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 13:09:15 America/Chicago] PHP Warning:  require(db/connect.php): failed to open stream: No such file or directory in /home/ben/public_html/uh/cis2336/mysql/index2.php on line 3
+[15-Apr-2015 13:09:15 America/Chicago] PHP Warning:  require(db/connect.php): failed to open stream: No such file or directory in /home/ben/public_html/uh/cis2336/mysql/index2.php on line 3
+[15-Apr-2015 13:09:15 America/Chicago] PHP Fatal error:  require(): Failed opening required 'db/connect.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/home/ben/php') in /home/ben/public_html/uh/cis2336/mysql/index2.php on line 3
+[15-Apr-2015 13:09:53 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 13:12:57 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 13:13:34 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Apr-2015 21:09:34 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[16-Apr-2015 22:37:33 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Apr-2015 09:20:39 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[20-Apr-2015 00:48:18 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2015 11:15:04 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Apr-2015 23:55:49 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:16:40 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:16:40 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 7
+[02-Jul-2015 17:18:15 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:18:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 7
+[02-Jul-2015 17:18:35 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:18:35 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:19:00 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:19:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 7
+[02-Jul-2015 17:19:01 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:19:01 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 7
+[02-Jul-2015 17:23:04 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:23:27 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:27 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:23:28 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:23:28 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:23:29 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 6
+[02-Jul-2015 17:23:58 America/Chicago] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Jul-2015 17:23:58 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ben/public_html/uh/cis2336/mysql/register.php on line 8

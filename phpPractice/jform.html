@@ -1,0 +1,47 @@
+<html>
+
+    <head>
+        <title> Simple Form</title>
+    </head>
+
+<body>
+
+        
+   <form action="jhandleform.php" method="post">
+    
+
+        <fieldset>
+
+        <legend> Enter your information in the form below:</legend>
+
+            <p><label>Name: <input type="text" name="Name" size="20" maxlength="40"</label></p>
+    
+            <p><label>Email Address: <input type="text" name="Email" size="40" maxlength="60"</label></p>
+    
+            <p><label for="Gender"> Gender: </label><input type="radio" name="Gender" value="M" />
+    
+                Male <input type="radio" name="Gender" value="F" /> Female </p>
+    
+        
+            <p><label> Age:
+    
+                <select name="Age">
+    
+                    <option value="0-29"> Under 30 </option>
+    
+                    <option value="30-60"> Between 30 and 60 </option>
+    
+                    <option value="60+"> Over 60 </option>
+    
+                </select></label></p>
+    
+            <p><label> Comments: <textarea name="Comments" rows="3" cols="40"></textarea></label></p>
+
+        </fieldset>
+
+        <p align="center"><input type="submit" name="submit" value="Submit My Information" /></p>
+
+    </form>
+</body>
+
+</html>
